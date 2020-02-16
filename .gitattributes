@@ -1,1 +1,2 @@
-*.* linguist-language=blend
+*.* linguist-language=Blender
+*.* linguist-language=Python
